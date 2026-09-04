@@ -1,6 +1,5 @@
 # Composing-Code
 Compare two excel or CSV files
-Here is a clear and simple README file you can use for GitHub.
 
 ---
 
